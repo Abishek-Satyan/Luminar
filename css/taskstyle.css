@@ -1,0 +1,50 @@
+h1{
+    text-transform: uppercase;
+    color:#000;
+    margin-top:3%;
+}
+.main{
+    text-align: center;
+}
+.container{
+    position: relative;
+    text-align: center;
+    margin-top:3%;
+    
+    left:12%; 
+    
+}
+.one{
+    position: absolute;
+    height:60vh;
+    width: 14%;
+    background-color: royalblue;
+}
+.two{
+    position: absolute;
+    left:15%;
+    height:60vh;
+    width: 14%;
+    background-color: rgb(112, 192, 147);
+}
+.three{
+    position: absolute;
+    left:30%;
+    height:60vh;
+    width: 14%;
+    background-color: rgb(170, 230, 170);
+}
+.four{
+    position: absolute;
+    left: 45%;
+    height:60vh;
+    width: 14%;
+    background-color: rgb(228, 228, 186);
+}
+.five{
+    position: absolute;
+    left:60%;
+    height:60vh;
+    width: 14%;
+    background-color: rgb(235, 63, 63);
+}
